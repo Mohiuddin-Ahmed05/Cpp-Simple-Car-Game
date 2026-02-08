@@ -1,0 +1,13 @@
+Dependancies:
+sudo apt update
+sudo apt install -y build-essential cmake gdb libsdl2-dev
+
+sudo apt install libsdl2-ttf-dev
+
+
+
+Build:
+cd Game
+cmake -S . -B build
+cmake --build build -j
+./build/game
