@@ -1,0 +1,3 @@
+/home/riaz/Github/Game/build/CMakeFiles/game.dir
+/home/riaz/Github/Game/build/CMakeFiles/edit_cache.dir
+/home/riaz/Github/Game/build/CMakeFiles/rebuild_cache.dir
